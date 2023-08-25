@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<person-list>
+    <persons>
+        <personDtos>
+            <fname>manager</fname>
+            <lname>manager_firstName</lname>
+            <birthday/>
+            <salary>1.00</salary>
+        </personDtos>
+        <personDtos>
+            <fname>manager</fname>
+            <lname>manager_firstName</lname>
+            <birthday/>
+            <salary>1.00</salary>
+        </personDtos>
+        <personDtos>
+            <fname>employee1</fname>
+            <lname>employee1_lastName</lname>
+            <birthday/>
+            <salary>1.00</salary>
+            <managerLastName>manager_firstName</managerLastName>
+        </personDtos>
+        <personDtos>
+            <fname>employee1</fname>
+            <lname>employee1_lastName</lname>
+            <birthday/>
+            <salary>1.00</salary>
+            <managerLastName>manager_firstName</managerLastName>
+        </personDtos>
+    </persons>
+</person-list>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<managerDto>
+	<firstName>manger</firstName>
+	<lastName>manger_lastName</lastName>
+	<employees>
+		<employee>
+			<firstName>employee1</firstName>
+			<lastName>employee_lastName</lastName>
+			<salary>1</salary>
+		</employee>
+		<employee>
+			<firstName>employee2</firstName>
+			<lastName>employee2_lastName</lastName>
+			<salary>10</salary>
+		</employee>
+	</employees>
+</managerDto>
