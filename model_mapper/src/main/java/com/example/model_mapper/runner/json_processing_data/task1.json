@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Alice Smith",
+    "age": 25,
+    "address": {
+      "street": "456 Oak St",
+      "city": "Somewhere",
+      "state": "NY"
+    },
+    "hobbies": ["Painting", "Traveling"],
+    "contacts": [
+      {
+        "type": "email",
+        "value": "alice.smith@example.com"
+      },
+      {
+        "type": "phone",
+        "value": "+1 555-5678"
+      }
+    ]
+  },
+  {
+    "name": "Bob Johnson",
+    "age": 35,
+    "address": {
+      "street": "789 Pine St",
+      "city": "Nowhere",
+      "state": "TX"
+    },
+    "hobbies": ["Cooking", "Photography"],
+    "contacts": [
+      {
+        "type": "email",
+        "value": "bob.johnson@example.com"
+      },
+      {
+        "type": "phone",
+        "value": "+1 555-4321"
+      }
+    ]
+  }
+]

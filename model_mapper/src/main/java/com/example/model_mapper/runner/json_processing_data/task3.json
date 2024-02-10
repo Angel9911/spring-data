@@ -1,0 +1,25 @@
+{
+  "restaurant": "Tasty Bites",
+  "menu": [
+    {
+      "dish": "Pizza",
+      "ingredients": ["Dough", "Tomato Sauce", "Cheese", "Toppings"],
+      "allergens": ["Gluten", "Dairy"]
+    },
+    {
+      "dish": "Salad",
+      "ingredients": ["Lettuce", "Tomato", "Cucumber", "Dressing"],
+      "allergens": []
+    },
+    {
+      "dish": "Burger",
+      "ingredients": ["Bun", "Beef Patty", "Lettuce", "Tomato", "Onion"],
+      "allergens": ["Gluten"]
+    }
+  ],
+  "specials": {
+    "gluten_free": ["Salad"],
+    "vegetarian": ["Pizza", "Salad"],
+    "vegan": ["Salad"]
+  }
+}

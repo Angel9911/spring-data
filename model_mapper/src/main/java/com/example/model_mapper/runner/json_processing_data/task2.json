@@ -1,0 +1,24 @@
+{
+  "music_store": "Melody Music",
+  "instruments": [
+    {
+      "type": "Guitar",
+      "brands": ["Fender", "Gibson"],
+      "genres": ["Rock", "Blues"]
+    },
+    {
+      "type": "Piano",
+      "brands": ["Steinway", "Yamaha"],
+      "genres": ["Classical", "Jazz"]
+    },
+    {
+      "type": "Drums",
+      "brands": ["Pearl", "DW"],
+      "genres": ["Rock", "Metal"]
+    }
+  ],
+  "instrument_sets": {
+    "rock_band": ["Guitar", "Drums"],
+    "jazz_band": ["Piano", "Drums"]
+  }
+}

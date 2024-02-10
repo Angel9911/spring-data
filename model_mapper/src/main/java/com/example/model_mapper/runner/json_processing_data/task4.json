@@ -1,0 +1,58 @@
+{
+  "university": "Tech University",
+  "departments": [
+    {
+      "name": "Computer Science",
+      "courses": [
+        {
+          "code": "CS101",
+          "name": "Introduction to Computer Science",
+          "credits": 3,
+          "prerequisites": []
+        },
+        {
+          "code": "CS201",
+          "name": "Data Structures and Algorithms",
+          "credits": 4,
+          "prerequisites": ["CS101"]
+        }
+      ],
+      "professors": [
+        {
+          "name": "Dr. Smith",
+          "specialization": "Artificial Intelligence",
+          "courses_taught": ["CS101", "CS201"]
+        },
+        {
+          "name": "Dr. Johnson",
+          "specialization": "Machine Learning",
+          "courses_taught": ["CS201"]
+        }
+      ]
+    },
+    {
+      "name": "Electrical Engineering",
+      "courses": [
+        {
+          "code": "EE101",
+          "name": "Introduction to Electrical Engineering",
+          "credits": 3,
+          "prerequisites": []
+        },
+        {
+          "code": "EE201",
+          "name": "Digital Electronics",
+          "credits": 4,
+          "prerequisites": ["EE101"]
+        }
+      ],
+      "professors": [
+        {
+          "name": "Dr. Williams",
+          "specialization": "Power Systems",
+          "courses_taught": ["EE101", "EE201"]
+        }
+      ]
+    }
+  ]
+}
